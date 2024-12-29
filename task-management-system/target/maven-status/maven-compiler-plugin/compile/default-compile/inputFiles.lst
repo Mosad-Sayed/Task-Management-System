@@ -1,0 +1,14 @@
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\config\JwtAuthenticationFilter.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\config\JwtUtil.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\config\SecurityConfig.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\controller\AuthController.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\controller\TaskController.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\model\Task.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\model\TaskStatus.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\model\User.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\repository\TaskRepository.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\repository\UserRepository.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\service\EmailService.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\service\TaskService.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\service\UserDetailsServiceImpl.java
+G:\task-management-system\src\main\java\com\taskmanager\task_management_system\TaskManagementSystemApplication.java
